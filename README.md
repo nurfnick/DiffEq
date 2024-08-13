@@ -1,2 +1,2 @@
 # DiffEq
-Differential Equations Repo for course Fall 2022
+Differential Equations Repo for ECU
